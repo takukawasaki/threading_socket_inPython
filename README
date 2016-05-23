@@ -1,0 +1,27 @@
+getip.py ;; Printing your machine's name and IPv4 address
+
+iphost.py ;; Retrieving a remote machine's IP address
+
+convert_ip4_address.py ;; Converting an IPv4 address to different formats
+
+findservname.py ;; Finding a service name, given the port and protocol
+
+integer_conversion.py ;; Converting integers to and from host to network byte order
+
+socket_error.py ;; Modifying socket's send/receive buffer sizes
+
+socket_non_block.py ;; Changing a socket to the blocking/ non-blocking mode
+
+socket_reuse_server.py ;; Reusing socket addresses
+
+port_forward.py ;; port forwarding
+
+ntp.py ;; get time from ntp.server
+
+
+forking_mixin.py ;; Using ForkingMixIn in your socket server applications
+
+simple_tcp_thread_server.py ;; Using ThreadingMixIn in your socket server applications
+
+chat_server.py ;; char server
+
